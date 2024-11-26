@@ -1,0 +1,5 @@
+chatgpt promt
+
+#scrape this website https://odb.org/2024/11/24 with python and beautiful soup
+#locate the element with tag "div" and class "sticky-parent" scrape all the "a" elements inside
+#get the text attribure and print it
